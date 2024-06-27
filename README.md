@@ -1,9 +1,9 @@
 
-## Install Dependencies: Install necessary packages.
+## Installing Dependencies: Installing necessary packages.
 ```
 npm install recharts
 ```
-### Step 2: Structure Your Project
+### Step 2: Structuring Your Project
 
 **1. Components**:
 
